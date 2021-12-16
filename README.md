@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @EloyEspinosa
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Python and C#
+Hello!, here are my projects:
+- [Weather.NET](https://github.com/EloyEspinosa/Weather.NET)
 
 <!---
 EloyEspinosa/EloyEspinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
